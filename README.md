@@ -1,3 +1,3 @@
 # MMRatingView
 
-A description of this package.
+Customisable Rating View for swiftUI.
